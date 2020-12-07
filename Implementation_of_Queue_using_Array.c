@@ -1,7 +1,9 @@
 
-// 5-Dec-2020
+// 5-Dec-2020 
+
 // code by shubham pandav 
 //Implementaion of queue using array
+//...
 #include <stdio.h>
 #include <conio.h>
 #define n 5
